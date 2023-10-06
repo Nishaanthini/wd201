@@ -1,7 +1,7 @@
 {
   "name": "todo-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "i like to learn this course",
   "main": "index.js",
   "scripts": {
     "start": "nodemon -e js,ejs",
@@ -16,7 +16,7 @@
       "prettier --write ."
     ]
   },
-  "author": "Deepapriyatharsini ",
+  "author": "nisha ",
   "license": "ISC",
   "devDependencies": {
     "ejs": "^3.1.9",
