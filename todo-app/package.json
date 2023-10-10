@@ -1,7 +1,7 @@
-{
+ {
   "name": "todo-app",
   "version": "1.0.0",
-  "description": "i like to learn this course",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon -e js,ejs",
